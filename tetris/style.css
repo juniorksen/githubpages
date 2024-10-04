@@ -1,0 +1,16 @@
+body {
+    background-color: #000000; /* Define el color de fondo, en este caso, un color naranja */
+}
+ 
+#playbutton {
+    width: 100px;
+    height: 50px;
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: white;
+    cursor: pointer;
+}
